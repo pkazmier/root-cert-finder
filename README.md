@@ -12,7 +12,7 @@ Entrust certificates would not be recognized in Chrome after Nov 12, 2024.
 
 ## Usage
 
-```bash
+```console
 $ cat - > domains.txt
 att.com
 bbc.com
